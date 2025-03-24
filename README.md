@@ -3,6 +3,6 @@
 Assignment for Module 9 --- Version Control
 
 ## EUID
-am3287
+rcb0233
 ## Favorite Professor
-asdf
+Captain Jack Sparrow
